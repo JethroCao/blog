@@ -40,7 +40,7 @@ module.exports = {
     // 页脚信息
     createYear: 2019, // 博客创建年份
     copyrightInfo:
-      '| <a href="https://beian.miit.gov.cn/#/Integrated/index">京ICP备2021030495号</a>', // 博客版权信息，支持a标签
+      '| <a href="http://beian.miit.gov.cn/">京ICP备2021030495号</a>', // 博客版权信息，支持a标签
   },
   htmlModules // 插入hmtl(广告)模块
 }
